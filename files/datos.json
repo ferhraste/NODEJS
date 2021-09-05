@@ -1,0 +1,46 @@
+{
+    "min_position": 7,
+    "has_more_items": true,
+    "items_html": "Bus",
+    "new_latent_count": 9,
+    "data": {
+       "length": 22,
+       "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "numericalArray": [
+       23,
+       25,
+       23,
+       33,
+       26
+    ],
+    "StringArray": [
+       "Nitrogen",
+       "Carbon",
+       "Carbon",
+       "Oxygen"
+    ],
+    "multipleTypesArray": 3,
+    "objArray": [
+       {
+          "class": "upper",
+          "age": 6
+       },
+       {
+          "class": "middle",
+          "age": 8
+       },
+       {
+          "class": "upper",
+          "age": 8
+       },
+       {
+          "class": "lower",
+          "age": 8
+       },
+       {
+          "class": "middle",
+          "age": 7
+       }
+    ]
+ }
