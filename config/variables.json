@@ -1,0 +1,10 @@
+{
+  "development": {
+    "SERVERURL": "http://localhost:3001/",
+    "PORT": 3001
+  },
+  "production": {
+    "SERVERURL": "http://localhost:5000/",
+    "PORT": 5000
+  }
+}
